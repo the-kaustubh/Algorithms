@@ -6,6 +6,9 @@ available on [Wikipedia](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes "Si
 
 - To compile run the following on your command-line
   > `git clone https://github.com/the-kaustubh/Algorithms.git`
+
   > `cd SieveOfEratosthenes/Java`
+
   > `make`
+  
   > `make run`
