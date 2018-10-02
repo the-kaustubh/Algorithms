@@ -1,11 +1,10 @@
 # Sieve of Eratosthenes
-## Implemented in Java
+## Implemented in Python
 
 A great explanation of the algorithm is
 available on [Wikipedia](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes "Sieve Of Eratosthenes")
 
-- To compile run the following on your command-line
+- To run, use the following on your command-line
   > `git clone https://github.com/the-kaustubh/Algorithms.git`
-  > `cd SieveOfEratosthenes/Java`
-  > `make`
-  > `make run`
+  > `cd SieveOfEratosthenes/Python`
+  > `python3 Sieve.py`
