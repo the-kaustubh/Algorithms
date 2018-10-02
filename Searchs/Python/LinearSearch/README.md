@@ -3,4 +3,7 @@
 
 - To run
 
-  `python3 linear_search.py` or simply
+  `python3 linear_search.py`
+  
+  `python linear_search.py`
+  
