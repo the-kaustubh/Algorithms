@@ -58,7 +58,8 @@ public class Sieve {
     Scanner sc = new Scanner(System.in);
     System.out.println("Enter the size of the sieve: ");
     size = sc.nextInt();
-
+    sc.close();
+    
     Sieve soe = new Sieve(size);
     soe.printPrimes();
     System.out.println("There are " + soe.getPrimeCount() + " prime numbers in the sieve.");
